@@ -13,5 +13,5 @@ Library use: Transformers (huggingface).
 
 Receive honorable mention prize.
 
-Also The Bahdanau Attention Mechanism RNN as baseline
+Also imeplement the Bahdanau Attention Mechanism RNN as baseline to see the relation in attention.
 ![alt text](https://raw.githubusercontent.com/rsongphon/Neural-machine-translation-Hackathon/main/Screenshot%202022-04-16%20144702.jpg "Logo Title Text 1")
